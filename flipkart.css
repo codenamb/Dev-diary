@@ -1,0 +1,17 @@
+button{
+    background-color: white;
+}
+
+#logo{
+    color:blue;
+    font-size: 25px;
+}
+
+#box{
+    background-color: lightblue;
+}
+
+a{
+    margin-right: 100px;
+    text-decoration: none;
+}

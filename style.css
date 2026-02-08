@@ -1,0 +1,36 @@
+.content{
+    height: 100px;
+    width:100px;
+    border: 1.5px solid black;
+    display:inline-block;
+
+}
+
+footer{
+    background-color:#0f1111;
+    color : white;
+    text-align: center;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color:#f08804;
+    font-size: 25px;
+}
+
+#box{
+    background-color: #0f1111;
+}
+
+a{
+    margin-right: 210px;
+    color: white;
+    text-decoration: none;
+}
+
+#contentmain{
+    height:650px
+}
